@@ -1,0 +1,12 @@
+Master Link
+https://github.com/rbhatia46/Data-Science-Interview-Resources?tab=readme-ov-file
+
+1. Practical statistics book
+2. Continue statistics/ probability from master link
+3. SQL and Data Acquisition
+4. Data Preparation and Visualization
+5. Storytelling with data book
+6. Python for analysis book
+7. naked statistics
+8. All books in Machine learning
+9. All books under NLP
